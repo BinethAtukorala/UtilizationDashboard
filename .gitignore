@@ -1,3 +1,9 @@
+# Unique configs
+config.json
+
+
+# --- Default 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
